@@ -1,0 +1,14 @@
+{
+  "name": "message passer",
+  "version": "1.0.0",
+  "description": "a websocket server that passes messages around rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT"
+}

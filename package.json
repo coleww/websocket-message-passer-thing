@@ -10,5 +10,8 @@
     "websocket"
   ],
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
 }
